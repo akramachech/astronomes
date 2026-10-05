@@ -15,3 +15,6 @@ k = 4 π 2 G M ⊙ {\displaystyle k={\frac {4\pi ^{2}}{GM_{\odot }}}}.
 Dans cette approximation, k est indépendante de la planète considérée.
 
 En exprimant les distances en unités astronomiques et les périodes en années, on a alors k = 1 {\displaystyle k=1}, et la loi s'exprime simplement
+
+Kepler meurt en 1630 à Ratisbonne[25], à l'âge de 59 ans, loin de Susanne et de ses enfants qui n'apprendront sa mort que deux mois plus tard. Il est enterré le 19 novembre. Il meurt dans le dénuement matériel le plus extrême en raison de la mévente des Tables rudolphines, et sans recevoir les derniers sacrements. Le pasteur luthérien les lui a refusés car il n'avait pas voulu, auparavant, condamner le calvinisme.
+
